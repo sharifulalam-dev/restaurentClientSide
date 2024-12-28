@@ -16,8 +16,6 @@ This is a modern and user-friendly website for a restaurant, designed to showcas
 - **Responsive Design**: Mobile-friendly layout and navigation.
 - **Gallery**: Showcase the restaurant's ambiance and signature dishes.
 
----
-
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React
