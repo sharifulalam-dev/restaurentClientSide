@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+ul.thumbs.animated {
+  text-align: center !important;
+}
+
+.cat-text {
+  position: absolute !important;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
